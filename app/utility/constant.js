@@ -47,4 +47,4 @@ export const surpriseMePrompts = [
     'A Space Shuttle flying above Cape Town, digital art',
   ];
 
-  export const apiUrl = "http://localhost:8080"
+  export const apiUrl = process.env.NEXT_PUBLIC_API_URL
