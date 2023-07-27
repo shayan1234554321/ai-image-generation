@@ -23,7 +23,7 @@
 
 # 📖 [Imagine AI] <a name="about-project"></a>
 
-### Imagine AI : Where imagination meets reality. Unleash your creativity with our cutting-edge image generation platform. Simply input your prompts, and watch as our AI brings your visions to life through stunning and personalized images.
+### Imagine AI : Where imagination meets reality. Unleash your creativity with this cutting-edge image generation platform. Simply input your prompts, and watch as this AI brings your visions to life through stunning and personalized generated image.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,7 +62,7 @@
 
 ## 🚀 Video Walkthrough <a name="walkthrough"></a>
 
-<a href="">Watch Video</a>
+<a href="https://drive.google.com/file/d/1tBnFrjKbWaI0yDRDkMtSBMnJClDCd64X/view?usp=sharing">Watch Video</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
