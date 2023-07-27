@@ -62,7 +62,7 @@
 
 ## 🚀 Video Walkthrough <a name="walkthrough"></a>
 
-<a href="https://drive.google.com/file/d/1tBnFrjKbWaI0yDRDkMtSBMnJClDCd64X/view?usp=sharing">Watch Video</a>
+<a href="https://drive.google.com/file/d/1MwYNg4eGQK765Qx5KVnSZjndUIliSnNe/view?usp=sharing">Watch Video</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
